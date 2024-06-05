@@ -1,4 +1,4 @@
-.cabecalho_menu-hamburguer {
+.cabecalho-menu-hamburguer {
     width: 24px;
     height: 24px;
     display: inline-block;
@@ -20,6 +20,6 @@
     align-items: center;
 }
 
-.container__imagem {
+.container-imagem {
     padding: 1em;
 }
