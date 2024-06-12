@@ -33,7 +33,7 @@
 .container-botao:checked ~ .lista-menu {
     display: block;
 }
-/* adicionar 12/06
+/* adicionar 12/06 */
 .lista-menu-titulo,
 .lista-menu-item {
     padding: 1em;
@@ -51,5 +51,6 @@
     background-clip: text;
     text-transform: uppercase;  
 }
+
 
 
