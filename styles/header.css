@@ -52,6 +52,10 @@
     background-clip: text;
     text-transform: uppercase;  
 }
+ /*add 17/06*/ 
+container-botao {
+    display: none;
+}
 
 
 
