@@ -42,7 +42,7 @@
 
 .lista-menu-titulo {
     color: var(--laranja);
-    font-weight: 700; /*add 17/06*/ 
+    font-weight: 700; /*add em 17/06*/ 
 }
 
 .lista-menu-link {
@@ -52,7 +52,7 @@
     background-clip: text;
     text-transform: uppercase;  
 }
- /*add 17/06*/ 
+ /*add em 17/06*/ 
 .container-botao {
     display: none;
 }
