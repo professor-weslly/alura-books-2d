@@ -1,3 +1,4 @@
+/*criar carrossel*/
 .carrossel-titulo {
     color: var(--laranja);
     background-color: var(--branco);
@@ -7,4 +8,19 @@
     font-weight: 700;
     padding: 1em 0 0.5em 0;
   }
-/*criar carrossel*/
+
+.swiper-slide img {
+    width: 100%;
+}
+
+/*configurar carrossel*/
+.swiper-button-prev,
+.swiper-button-next {
+    display: none;
+}
+
+
+.swiper-pagination {
+    position: initial;
+    margin: .5em 0;
+}
